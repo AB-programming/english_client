@@ -3,7 +3,7 @@
 ## Project Introduction
 
 A relatively simple English learning assistant project, the current function is not perfect, this is the front-end part, please see the back-end part
-![english_server](https://github.com/AB-programming/english_server)
+[english_server](https://github.com/AB-programming/english_server)
 
 ## Technology Selection
 
